@@ -6,5 +6,5 @@
 - Appwrite
 - React Query
 - TypeScript
-- Shadcn
+- Vite
 - Tailwind CSS
